@@ -12,3 +12,8 @@ web-build/
 
 # macOS
 .DS_Store
+
+ExecutionPolicy_Readme.txt
+Project_Readme.txt
+
+assets/
